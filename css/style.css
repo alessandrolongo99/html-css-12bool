@@ -1,0 +1,17 @@
+[class*="col-"]{
+    background-color: rgb(56, 56, 255);
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    min-height: 40px;
+}
+
+
+.nested{
+    background-color: green;
+}
+
+.mt-20{
+    margin-top: 20px;
+}
