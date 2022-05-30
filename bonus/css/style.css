@@ -1,0 +1,32 @@
+:root{
+    --blue: #65b7f8;
+    --lightblue: #50d7e9;
+    --skin: #fedcdf;
+    --white: #fff;
+    --black: #000;
+}
+
+[class*="col-"]{
+    width: 75px;
+    height: 75px;
+}
+
+.blue{
+    background-color: var(--blue);
+}
+
+.lightblue{
+    background-color: var(--lightblue);
+}
+
+.skin{
+    background-color: var(--skin);
+}
+
+.black{
+    background-color: var(--black);
+}
+
+.white{
+    background-color: var(--white);
+}
