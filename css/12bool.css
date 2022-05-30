@@ -189,4 +189,8 @@
         flex-basis: calc((100% / 12) * 12);
         max-width: calc((100% / 12) * 12);
     }
+
+    .col-offset-0{
+        margin-left: 0;
+    }
 }
