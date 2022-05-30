@@ -1,0 +1,49 @@
+[class*="col-"]{
+    background-color: rgb(56, 56, 255);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    min-height: 40px;
+    border: 1px solid white;
+}
+
+.content-center{
+    justify-content: center;
+}
+
+.big{
+    min-height: 80px;
+}
+
+.align-self-top{
+    align-self: flex-start;
+}
+
+.align-self-middle{
+    align-self: center;
+}
+
+.align-self-bottom{
+    align-self: flex-end;
+}
+
+.content-space-around{
+    justify-content: space-around;
+}
+
+.content-space-between{
+    justify-content: space-between;
+}
+
+.content-end{
+    justify-content: end;
+}
+
+.nested{
+    background-color: rgb(5, 199, 5);   
+    border: 1px solid rgb(56, 56, 255);
+}
+
+.mt-20{
+    margin-top: 20px;
+}
